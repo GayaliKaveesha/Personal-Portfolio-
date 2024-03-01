@@ -52,7 +52,7 @@ ScrollReveal().reveal('.home-content p, .about-content, .contact .form-input', {
 
 /*-- typed js --*/
 const type = new Typed('.multiple-text', {
-    strings: ['Frontend Developoer', 'Web Designer'],
+    strings: ['Frontend Developer', 'Web Designer'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
